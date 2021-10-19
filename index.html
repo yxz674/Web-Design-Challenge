@@ -11,11 +11,11 @@
 <body>
   <div class = "topnav">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" style ="color:white; background-color: #11c0b7; font-weight:bold; font-size:20px;font-family:eorgia, 'Times New Roman', Times, sans-serif" href="index.html">Latitude</a>
+      <a class="navbar-brand" style ="color:white; background-color: #11c0b7; font-weight:bold; text-align: center; font-size:20px; font-family:Georgia, 'Times New Roman', Times, sans-serif" href="index.html">Latitude</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
         <div class="mdl-layout-spacer">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item dropdown">
@@ -42,8 +42,8 @@
   </div>
     <div class="container">
         <div class="row">
-          <div class="col-md-12 col-lg-7">
-            <div class="box">
+          <div class="col-lg-7 col-md-12">
+            <div class="box" style="padding-bottom:50px ; padding-left:20px; padding-right:20px">
               <h2 class = "title" style= "color:#11c0b7;font-size:35px";>Summary: Latitude vs. X</h2>
               <hr class="my-6">
               <img src = "Resources\assets\images\Fig1.png" style="width:300px;height:250px;">
@@ -51,11 +51,11 @@
               <p class="second">After assembling the dataset, we used Matplotlib to plot various aspects of the weather vs latitude. Factors we looked at included: temperature, cloudiness, wind speed, and humidity. This site provides the source data and visualizations created as part of the analysis, as well as explanations and descriptions of any trends and correlations witnessed.</p>
             </div>
           </div>
-          <div class="col-md-12 col-lg-5">
-            <div class="box">
+          <div class="col-lg-5 col-md-12">
+            <div class="box" style="padding-bottom:20px">
               <h3 class = "title" style= "color:#11c0b7;font-size:25px">Visualizations</h3>
               <hr class="my-6">
-              <div class="row">
+              <div class="row" style="padding:5px 30px 0px 4px">
                 <div class="col-6">
                  <a href="max_temperature.html"><img src="Resources\assets\images\Fig1.png" style="width:220px;height:200px;"></a>
                 </div>
@@ -63,7 +63,7 @@
                  <a href="humidity.html"><img src="Resources\assets\images\Fig2.png" style="width:220px;height:200px;"></a>
                 </div>
               </div>
-              <div class="row">
+              <div class="row" style="padding:5px 30px 0px 4px">
                 <div class="col-6">
                  <a href="cloudiness.html"><img src="Resources\assets\images\Fig3.png" style="width:220px;height:200px;"></a>
                 </div>
