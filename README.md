@@ -59,41 +59,43 @@ Ensure your repository has regular commits and a thorough README.md file
 * Use meaningful glyphicons next to links in the header.
 * Have visualization navigation on every visualizations page with an active state. See the screenshots below.
 
-### Screenshots
-
-This section contains screenshots of each page that must be built, at varying screen widths. These are a guide; you can meet the requirements without having the pages look exactly like the below images.
+### Homework Web-Design Screenshots
 
 #### <a id="landing-page"></a>Landing page
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+<img width="954" alt="landing lg" src="https://user-images.githubusercontent.com/87953612/138014559-aca1559d-ea6c-4f07-b2af-3e56e321b5f1.PNG">
+
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
-￼
+<img width="293" alt="landing-sm" src="https://user-images.githubusercontent.com/87953612/138014604-0b15cc5c-bd1f-4633-ac05-b525d920787c.PNG">
+
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+<img width="616" alt="comparisons-lg" src="https://user-images.githubusercontent.com/87953612/138014646-425249d3-c5e5-4689-970f-6269c7588dda.PNG">
+
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+<img width="295" alt="comparisons-sm" src="https://user-images.githubusercontent.com/87953612/138014666-b0d5e751-dc07-4756-affd-f9ea05de84ad.PNG">
+
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+<img width="616" alt="data lg" src="https://user-images.githubusercontent.com/87953612/138014687-6132ed1e-d57e-4571-99ca-c378ad8c5c4a.PNG">
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+<img width="296" alt="data sm" src="https://user-images.githubusercontent.com/87953612/138014698-c580010e-5ce7-4f00-8e4e-f8cb77502ba4.PNG">
+
 
 #### <a id="visualization-pages"></a>Visualization pages
 
@@ -101,19 +103,24 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+<img width="614" alt="visualization-lg" src="https://user-images.githubusercontent.com/87953612/138014717-bed3a06a-358b-4d41-b307-c4044e8c5501.PNG">
+
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+<img width="297" alt="visualization-sm" src="https://user-images.githubusercontent.com/87953612/138014727-a5c4e633-4007-4f35-9e9d-3f85f93a126c.PNG">
+
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+
+<img width="619" alt="nav-bar-lg" src="https://user-images.githubusercontent.com/87953612/138014741-a286094b-8e06-454a-b489-34d85c2596b4.PNG">
+
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
+
+<img width="308" alt="nav-bar-sm" src="https://user-images.githubusercontent.com/87953612/138014756-819d4885-6cd7-4c23-881c-c0bdf89fee34.PNG">
 
 - - -
 
